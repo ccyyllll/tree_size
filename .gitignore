@@ -13,4 +13,5 @@ build
 
 # My configurations:
 db.ini
+*.class
 deploy_key_rsa
